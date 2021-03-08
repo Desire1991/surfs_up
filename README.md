@@ -52,5 +52,5 @@ to different areas in Hawaii based on the station's measurement for temperature 
 
 In addition, we can also measure the precipitation of Hawaii in order to get the feel of the fog density around the area, as it can affect sight and less people may want to surf when the precipitation is not good for surfing in many days.
 
-![image](https://user-images.githubusercontent.com/74233163/110303295-d8efb000-7fbf-11eb-9a27-48cfa969115e.png)
+
 
