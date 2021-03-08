@@ -24,6 +24,13 @@ Through extracting data from both June and December from the hawaii sqlite datas
 
 The shown tables will demonstrate the temperature for both months June and December summary.
 
+![image](https://user-images.githubusercontent.com/74233163/110303737-5b786f80-7fc0-11eb-9bb3-3462ccb6fd17.png)
+
+
+![image](https://user-images.githubusercontent.com/74233163/110303772-67fcc800-7fc0-11eb-8a8a-767fd4c0821a.png)
+
+
+
 
   
 
